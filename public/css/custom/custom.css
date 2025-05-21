@@ -1,0 +1,30 @@
+/* public/css/custom/custom.css */
+
+
+#calendar {
+    max-width: 500px;
+    height: 550px;
+}
+
+/* For small devices */
+@media (max-width: 768px) {
+    #calendar {
+        max-width: 100%;
+        min-height: 400px;
+    }
+}
+
+/* For larger devices */
+@media (min-width: 992px) {
+    #calendar {
+        max-width: 100%;
+        min-height: 550px;
+    }
+}
+
+.td-limit {
+    max-width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
