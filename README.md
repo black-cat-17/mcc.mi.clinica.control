@@ -122,3 +122,4 @@ El archivo `mcc10.sql` contiene la estructura y datos necesarios. Importe este a
 ---
 ````
 # mcc.mi.clinica.control
+# mcc.mi.clinica.control
