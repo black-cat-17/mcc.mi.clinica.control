@@ -1,0 +1,8 @@
+admin01@example.com 
+password=123456789
+
+paciente01@example.com
+password=123456789
+
+facultativo01@example.com
+password=123456789
